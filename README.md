@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
+## Array
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
