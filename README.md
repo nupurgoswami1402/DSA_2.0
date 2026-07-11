@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1122-relative-sort-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1833-maximum-ice-cream-bars](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1833-maximum-ice-cream-bars) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1122-relative-sort-array) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,20 +74,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Math
 |  |
 | ------- |
