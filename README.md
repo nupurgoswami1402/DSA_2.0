@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1833-maximum-ice-cream-bars](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1833-maximum-ice-cream-bars) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -75,23 +76,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
