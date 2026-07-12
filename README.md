@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [0561-array-partition](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1122-relative-sort-array) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -113,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
