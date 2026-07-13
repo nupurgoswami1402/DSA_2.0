@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0076-minimum-window-substring) |
 | [1122-relative-sort-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1122-relative-sort-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Divide and Conquer
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0071-simplify-path) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
