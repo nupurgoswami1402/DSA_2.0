@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
