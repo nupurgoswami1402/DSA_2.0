@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
