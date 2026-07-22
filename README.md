@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0147-insertion-sort-list) |
 | [0561-array-partition](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1122-relative-sort-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0147-insertion-sort-list](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0147-insertion-sort-list) |
 ## Breadth-First Search
 |  |
 | ------- |
