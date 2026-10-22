@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0132-palindrome-partitioning-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0118-pascals-triangle) |
 | [0561-array-partition](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nupurgoswami1402/DSA_2.0/tree/master/1122-relative-sort-array) |
